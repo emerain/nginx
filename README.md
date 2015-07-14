@@ -1,2 +1,2 @@
 # nginx
-Nginx Configuration Files
+Nginx configuration file mainly for NginxCP.com cPanel plugins.
